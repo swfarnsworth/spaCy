@@ -100,7 +100,7 @@ Create a `DependencyMatcher`.
 | _keyword-only_ |                                                                                                       |
 | `validate`     | Validate all patterns added to this matcher. ~~bool~~                                                 |
 
-## DependencyMatcher.\_\call\_\_ {#call tag="method"}
+## DependencyMatcher.\_\_\call\_\_ {#call tag="method"}
 
 Find all tokens matching the supplied patterns on the `Doc` or `Span`.
 
